@@ -7,7 +7,7 @@ vmess_req() {
     read telco
     case "$telco" in
     1)
-        kumbang='cf.ctechdidik.me'
+        kumbang='cf.razvpn.online'
         ;;
     2)
         kumbang='who.int'
@@ -51,7 +51,7 @@ vless_req() {
     read telco
     case "$telco" in
     1)
-        kumbang='cf.ctechdidik.me'
+        kumbang='cf.razvpn.online'
         ;;
     2)
         kumbang='who.int'
